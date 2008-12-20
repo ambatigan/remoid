@@ -1,0 +1,43 @@
+<mockup version="1.0" skin="sketch">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::TitleWindow" x="317" y="41" w="-1" h="-1" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <close>false</close>
+        <text>Remotroid%20Client</text>
+        <bottomheight>1</bottomheight>
+        <minimize>false</minimize>
+        <verticalScrollbar>false</verticalScrollbar>
+        <maximizeRestore>false</maximizeRestore>
+        <dragger>false</dragger>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="332" y="73" w="-1" h="-1" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Screenshot%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::ButtonBar" x="398" y="130" w="-1" h="-1" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>All%2C%20Left%20top%2C%20Right%20top</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::ButtonBar" x="407" y="199" w="-1" h="-1" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Left%20bottom%2C%20Right%20bottom</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Icon" x="319" y="412" w="-1" h="-1" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>CopyrightIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="341" y="425" w="-1" h="-1" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Saven%20Technologies%20Inc.%2C</text>
+        <italic>true</italic>
+        <size>8</size>
+        <color>8388608</color>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

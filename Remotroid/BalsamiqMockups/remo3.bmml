@@ -1,0 +1,44 @@
+<mockup version="1.0" skin="sketch">
+  <controls>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::TitleWindow" x="310" y="44" w="-1" h="-1" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <close>false</close>
+        <verticalScrollbar>true</verticalScrollbar>
+        <bottomheight>1</bottomheight>
+        <minimize>false</minimize>
+        <text>Remotroid%20Client</text>
+        <maximizeRestore>false</maximizeRestore>
+        <dragger>false</dragger>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Label" x="310" y="68" w="-1" h="-1" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Status%3A%20Connecting.....</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Canvas" x="492" y="93" w="148" h="234" zOrder="2" locked="false" isInGroup="-1"/>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Label" x="492" y="93" w="141" h="26" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Select%20access%20points%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::List" x="516" y="134" w="100" h="247" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Access%20point%201%0AAccess%20point%202%0AAccess%20point%203%0AAccess%20point%204%0AAccess%20point%205%0AAccess%20point%206%0AAccess%20point%207%0AAccess%20point%208</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Icon" x="313" y="414" w="-1" h="-1" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>CopyrightIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Label" x="337" y="427" w="-1" h="-1" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Saven%20Technologies%20Inc.%2C</text>
+        <italic>true</italic>
+        <size>8</size>
+        <color>8388608</color>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

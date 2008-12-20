@@ -1,0 +1,44 @@
+<mockup version="1.0" skin="sketch">
+  <controls>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::TitleWindow" x="307" y="32" w="-1" h="-1" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <close>false</close>
+        <verticalScrollbar>false</verticalScrollbar>
+        <bottomheight>1</bottomheight>
+        <minimize>false</minimize>
+        <text>Remotroid%20Client</text>
+        <maximizeRestore>false</maximizeRestore>
+        <dragger>false</dragger>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Canvas" x="404" y="158" w="234" h="138" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Paragraph" x="412" y="158" w="-1" h="-1" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Allow%20application%2C%20Remotroid%20Client%20to%20use%20network%20and%20send%20or%20receive%20data%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Button" x="438" y="238" w="-1" h="-1" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Yes</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Button" x="543" y="238" w="-1" h="-1" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>No</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Icon" x="309" y="402" w="-1" h="-1" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>CopyrightIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Label" x="331" y="415" w="-1" h="-1" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Saven%20Technologies%20Inc.%2C</text>
+        <italic>true</italic>
+        <size>8</size>
+        <color>8388608</color>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

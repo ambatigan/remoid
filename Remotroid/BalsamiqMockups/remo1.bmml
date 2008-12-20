@@ -1,0 +1,255 @@
+<mockup version="1.0" skin="sketch">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::TitleWindow" x="317" y="34" w="-1" h="-1" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <minimize>false</minimize>
+        <verticalScrollbar>true</verticalScrollbar>
+        <bottomheight>1</bottomheight>
+        <close>false</close>
+        <text>Remotroid%20Client</text>
+        <maximizeRestore>false</maximizeRestore>
+        <dragger>false</dragger>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="317" y="409" w="-1" h="-1" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Options</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="721" y="409" w="-1" h="-1" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Exit</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::TextArea" x="317" y="58" w="435" h="47" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Server%20IP%3A</text>
+        <backgroundAlpha>0.75</backgroundAlpha>
+        <state>focused</state>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::TextInput" x="439" y="67" w="305" h="-1" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>125.16.24.84</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::TextArea" x="317" y="105" w="435" h="47" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Server%20Port%3A</text>
+        <backgroundAlpha>0.75</backgroundAlpha>
+        <state>up</state>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::TextInput" x="439" y="120" w="305" h="-1" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>55555</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::TextArea" x="317" y="152" w="435" h="45" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Login%3A</text>
+        <backgroundAlpha>0.75</backgroundAlpha>
+        <state>up</state>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::TextInput" x="439" y="161" w="305" h="-1" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>ambatigan</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::TextArea" x="317" y="190" w="435" h="47" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Password%3A</text>
+        <backgroundAlpha>0.75</backgroundAlpha>
+        <state>up</state>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::TextInput" x="439" y="205" w="305" h="-1" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>*************</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::TextArea" x="317" y="231" w="435" h="47" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Connection%20type%3A</text>
+        <backgroundAlpha>0.75</backgroundAlpha>
+        <state>up</state>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::RadioButton" x="449" y="236" w="-1" h="-1" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>GPRS</text>
+        <state>selected</state>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::RadioButton" x="448" y="256" w="-1" h="-1" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Bluetooth</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::TextArea" x="317" y="278" w="435" h="47" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>View%20Always%3A</text>
+        <backgroundAlpha>0.75</backgroundAlpha>
+        <state>up</state>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::RadioButton" x="449" y="284" w="-1" h="-1" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Yes</text>
+        <state>selected</state>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::RadioButton" x="449" y="302" w="-1" h="-1" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>No</text>
+        <state>up</state>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::TextArea" x="317" y="317" w="435" h="47" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>English</text>
+        <backgroundAlpha>0.75</backgroundAlpha>
+        <state>up</state>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::RadioButton" x="449" y="325" w="-1" h="-1" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Yes</text>
+        <state>selected</state>
+      </controlProperties>
+    </control>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::TitleWindow" x="317" y="34" w="-1" h="-1" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <close>false</close>
+        <verticalScrollbar>true</verticalScrollbar>
+        <bottomheight>1</bottomheight>
+        <minimize>false</minimize>
+        <text>Remotroid%20Client</text>
+        <maximizeRestore>false</maximizeRestore>
+        <dragger>false</dragger>
+      </controlProperties>
+    </control>
+    <control controlID="21" controlTypeID="com.balsamiq.mockups::TextArea" x="317" y="58" w="435" h="47" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Server%20IP%3A</text>
+        <backgroundAlpha>0.75</backgroundAlpha>
+        <state>focused</state>
+      </controlProperties>
+    </control>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::TextInput" x="439" y="67" w="305" h="-1" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>125.16.24.84</text>
+      </controlProperties>
+    </control>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::TextInput" x="439" y="161" w="305" h="-1" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>ambatigan</text>
+      </controlProperties>
+    </control>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::TextArea" x="317" y="152" w="435" h="45" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Login%3A</text>
+        <backgroundAlpha>0.75</backgroundAlpha>
+        <state>up</state>
+      </controlProperties>
+    </control>
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::TextInput" x="439" y="120" w="305" h="-1" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>55555</text>
+      </controlProperties>
+    </control>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::TextArea" x="317" y="105" w="435" h="47" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Server%20Port%3A</text>
+        <backgroundAlpha>0.75</backgroundAlpha>
+        <state>up</state>
+      </controlProperties>
+    </control>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::TextArea" x="317" y="190" w="435" h="47" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Password%3A</text>
+        <backgroundAlpha>0.75</backgroundAlpha>
+        <state>up</state>
+      </controlProperties>
+    </control>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::TextInput" x="439" y="205" w="305" h="-1" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>*************</text>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::TextArea" x="317" y="231" w="435" h="47" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Connection%20type%3A</text>
+        <backgroundAlpha>0.75</backgroundAlpha>
+        <state>up</state>
+      </controlProperties>
+    </control>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::RadioButton" x="449" y="236" w="-1" h="-1" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>GPRS</text>
+        <state>selected</state>
+      </controlProperties>
+    </control>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::RadioButton" x="448" y="256" w="-1" h="-1" zOrder="30" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Bluetooth</text>
+      </controlProperties>
+    </control>
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::TextArea" x="317" y="278" w="435" h="47" zOrder="31" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>View%20Always%3A</text>
+        <backgroundAlpha>0.75</backgroundAlpha>
+        <state>up</state>
+      </controlProperties>
+    </control>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::RadioButton" x="449" y="284" w="-1" h="-1" zOrder="32" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Yes</text>
+        <state>selected</state>
+      </controlProperties>
+    </control>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::RadioButton" x="449" y="302" w="-1" h="-1" zOrder="33" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>No</text>
+        <state>up</state>
+      </controlProperties>
+    </control>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::TextArea" x="317" y="317" w="435" h="47" zOrder="34" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>English</text>
+        <backgroundAlpha>0.75</backgroundAlpha>
+        <state>up</state>
+      </controlProperties>
+    </control>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::RadioButton" x="449" y="325" w="-1" h="-1" zOrder="35" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Yes</text>
+        <state>selected</state>
+      </controlProperties>
+    </control>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::Button" x="364" y="379" w="-1" h="-1" zOrder="36" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Connect/Search</text>
+      </controlProperties>
+    </control>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::Button" x="616" y="378" w="-1" h="-1" zOrder="37" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>About</text>
+      </controlProperties>
+    </control>
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::Icon" x="321" y="405" w="-1" h="-1" zOrder="38" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>CopyrightIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::Label" x="343" y="417" w="-1" h="-1" zOrder="39" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Saven%20Technologies%20Inc.%2C</text>
+        <italic>true</italic>
+        <size>8</size>
+        <color>8388608</color>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
