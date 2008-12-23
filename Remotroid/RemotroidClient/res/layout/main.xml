@@ -1,12 +1,93 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:orientation="vertical"
-    android:layout_width="fill_parent"
-    android:layout_height="fill_parent"
-    >
-<TextView  
-    android:layout_width="fill_parent" 
-    android:layout_height="wrap_content" 
-    android:text="@string/hello"
-    />
-</LinearLayout>
+<RelativeLayout
+android:id="@+id/widget28"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+xmlns:android="http://schemas.android.com/apk/res/android"
+>
+<TextView
+android:id="@+id/serverip"
+android:layout_width="70px"
+android:layout_height="wrap_content"
+android:text="Server IP:"
+android:layout_alignParentTop="true"
+android:layout_alignParentLeft="true"
+>
+</TextView>
+<EditText
+android:id="@+id/widget32"
+android:layout_width="200px"
+android:layout_height="40px"
+android:textSize="18sp"
+android:layout_alignParentTop="true"
+android:layout_alignParentRight="true"
+>
+</EditText>
+<EditText
+android:id="@+id/widget34"
+android:layout_width="200px"
+android:layout_height="40px"
+android:layout_marginLeft="10px"
+android:textSize="18sp"
+android:layout_below="@+id/widget32"
+android:layout_alignParentRight="true"
+>
+</EditText>
+<TextView
+android:id="@+id/serverport"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="Server Port:"
+android:layout_alignBottom="@+id/widget34"
+android:layout_alignParentLeft="true"
+>
+</TextView>
+<TextView
+android:id="@+id/username"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="User name:"
+android:layout_below="@+id/widget34"
+android:layout_alignParentLeft="true"
+>
+</TextView>
+<EditText
+android:id="@+id/widget54"
+android:layout_width="200px"
+android:layout_height="40px"
+android:textSize="18sp"
+android:layout_alignTop="@+id/username"
+android:layout_alignParentRight="true"
+>
+</EditText>
+<TextView
+android:id="@+id/password"
+android:layout_width="wrap_content"
+android:layout_height="14px"
+android:text="Password:"
+android:layout_below="@+id/widget54"
+android:layout_alignParentLeft="true"
+>
+</TextView>
+<EditText
+android:id="@+id/widget56"
+android:layout_width="200px"
+android:layout_height="40px"
+android:textSize="18sp"
+android:password="true"
+android:layout_below="@+id/widget54"
+android:layout_alignParentRight="true"
+>
+</EditText>
+<Button
+android:id="@+id/connect"
+android:layout_width="100px"
+android:layout_height="30px"
+android:text="Connect"
+android:textSize="12sp"
+android:textStyle="bold"
+android:layout_below="@+id/widget56"
+android:layout_alignLeft="@+id/widget32"
+>
+</Button>
+</RelativeLayout>
